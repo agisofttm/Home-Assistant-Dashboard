@@ -3,21 +3,21 @@
     "languageDisplay": "Bulgarian",
     "languageId": "bg_BG",
     "actionOpen": [
-        "отвори"
+        "отваряне"
     ],
     "actionClose": [
-        "затвори"
+        "затворяне"
     ],
     "actionTurnOn": [
-        "включване"
+        "включване на"
     ],
     "actionTurnOff": [
-        "изключване"
+        "изключване на"
     ],
     "voiceAll": [
         "всички",
         "всеки",
-        "пълен"
+        "цялостно"
     ],
     "voiceCantFindActionList": [
         "Не мога да разбера гласовата команда, моля опитайте отново.",
